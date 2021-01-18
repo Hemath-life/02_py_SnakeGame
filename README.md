@@ -5,7 +5,9 @@
 <h5>Execute:
   You can excutetpython main.py
    (or)
-  In terminal exute sudo ./Sake.sh 
+  In terminal exute sudo ./Snake.sh 
+    - give execute permission on the snake file
+    - you can execute via terminal or else double click the snake.sh file
   </h5>
 
 <h3>Controls</h3>
