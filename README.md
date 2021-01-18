@@ -10,7 +10,7 @@
 
 <h3>Controls</h3>
     
-    - Top - Up Arrow
+    - Top for Up Arrow
     
     - Down for Down arrow
     
