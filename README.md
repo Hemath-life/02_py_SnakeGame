@@ -21,6 +21,7 @@
     
 example:
 ![](https://github.com/Hemath-life/02_py_SnakeGame/blob/main/ex:image/1.png)
+via terminal
 ![](https://github.com/Hemath-life/02_py_SnakeGame/blob/main/ex:image/11.png)
 ![](https://github.com/Hemath-life/02_py_SnakeGame/blob/main/ex:image/2.png)
 ![](https://github.com/Hemath-life/02_py_SnakeGame/blob/main/ex:image/3.png)
